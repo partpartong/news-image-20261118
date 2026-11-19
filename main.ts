@@ -10,9 +10,10 @@
 // fields, each with its own drawn picture and a short label: the APEC summit
 // opening in Shenzhen with the first Trump-Xi-Putin trilateral set for the
 // next day; the Quad's new plan in Manila; Ukraine's strike on the Crimean
-// bridge as Russia hits Kyiv; Iran's drone attack on a US radar site in
-// Bahrain; Nvidia's revenue doubling to $115.8bn; and briefs on Cyclone
-// Akvan, the Prague march and North Korea's missile launch. Nothing in it
+// bridge as Russia hits Kyiv; Iran's claimed drone attack on a US radar site
+// in Bahrain, which Bahrain and US Central Command say was intercepted;
+// Nvidia's revenue doubling to $115.8bn; and briefs on Cyclone Akvan, the
+// Spanish general strike and Estonia's planned border closure with Russia.
 // is invented: every headline follows wire reports of 18 November 2026.
 //
 // Revised once after a first run: the program now checks its own output
